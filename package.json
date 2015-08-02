@@ -1,7 +1,7 @@
 {
   "name": "@dominicbarnes/eslint-config",
   "description": "Base configuration for ESLint throughout my projects",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "main": "index.json",
   "peerDependencies": {
     "eslint": "^1.0.0"

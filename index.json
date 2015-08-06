@@ -15,7 +15,6 @@
     "dot-notation": 2,
     "eol-last": 2,
     "eqeqeq": [ 2, "allow-null" ],
-    "func-names": 1,
     "func-style": [ 2, "declaration" ],
     "indent": [ 2, 2 ],
     "key-spacing": 2,

@@ -1,4 +1,9 @@
 
+0.1.0 / 2015-09-18
+==================
+
+  * updating with new rules, moving es6 rules here too
+
 0.0.3 / 2015-08-08
 ==================
 

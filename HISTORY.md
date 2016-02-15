@@ -1,4 +1,12 @@
 
+1.0.0 / 2016-02-15
+==================
+
+  * adding travis config
+  * upgrading to eslint 2
+  * adding gitignore
+  * adding lint
+
 0.2.1 / 2015-12-13
 ==================
 

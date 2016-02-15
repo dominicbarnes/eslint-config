@@ -7,7 +7,7 @@
     "jsonlint": "^1.6.2"
   },
   "peerDependencies": {
-    "eslint": "^1.0.0"
+    "eslint": "^2.0.0"
   },
   "scripts": {
     "lint": "jsonlint -q index.json"
